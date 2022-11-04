@@ -1,1 +1,4 @@
 # Market-Basket-Analysis-based-on-frequent-item-set-mining
+INTRODUCTION: The project was done using the transactional data of BUY N SAVE supermarket in Kazhakoottam, Trivandrum. The data collected was pre-processed in Excel. Association rule mining was done using Apriori algorithm in Python environment to identify the relationship between purchased products. Finally, after analyzing the customer buying patterns, key insights were gathered.
+One of the challenges for companies that have invested heavily in customer data collection is how to extract information from their vast customer databases and their purchasing patterns, in order to gain competitive advantage. Market basket analysis is one of the data mining methods focusing on discovering purchasing patterns by extracting associations or co-occurences from a store's transactional data.
+ 
